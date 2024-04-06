@@ -1,0 +1,15 @@
+#logo-container
+{
+    width: 120px;
+    height: 48px;
+    position: fixed;
+    top: 40px;
+    left: 40px;
+}
+
+#logo
+{
+    position: relative;
+    left: 44px;
+}
+
